@@ -4,7 +4,7 @@ This project builds a simple stock price prediction model using PyTorch and hist
 The model uses an LSTM (Long Short-Term Memory) neural network to learn from past price trends and forecast future prices.
 
 ### 🔗 Live Demo
-👉 [Check it out on Streamlit]((https://nvda-stock-predictor.streamlit.app/))
+👉 [Check it out on Streamlit]([(https://nvda-stock-predictor.streamlit.app/)](https://nvda-stock-predictor.streamlit.app/))
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/ad24ed02-9c9b-4b6d-8e8b-39b040a31677" />
 
