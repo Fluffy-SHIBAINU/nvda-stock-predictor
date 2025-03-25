@@ -39,7 +39,8 @@ streamlit run app/app.py
 
 ## 🖼️ Example Output
 
-![Prediction Chart](screenshot.png)
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/8571261a-7530-4ca1-bcea-d59ebd6edb63" />
+
 
 ## 📁 Project Structure
 
