@@ -6,7 +6,7 @@ The model uses an LSTM (Long Short-Term Memory) neural network to learn from pas
 ### 🔗 Live Demo
 👉 [Check it out on Streamlit](https://nvda-stock-predictor.streamlit.app/)
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/ad24ed02-9c9b-4b6d-8e8b-39b040a31677" />
+<img width="1293" alt="image" src="https://github.com/user-attachments/assets/cd01ef3b-108e-4222-9a92-737593d4a067" />
 
 ## 🔧 Features
 
